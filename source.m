@@ -1,6 +1,6 @@
 % This file is part of the Statistical Dynamics coursework.
 %
-% Copyright (c) 2022 Vladislav Sosedov.
+% Copyright (c) 2018 Vladislav Sosedov.
 
 clear all
 close all
